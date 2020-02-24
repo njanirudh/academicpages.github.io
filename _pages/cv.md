@@ -44,10 +44,3 @@ Languages
 * German  (Basic)
 * Hindi
 * Kannada
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
