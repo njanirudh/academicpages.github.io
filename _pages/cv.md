@@ -13,18 +13,21 @@ Education
 ======
 
 * M.S. in Autonomous Systems, Hochschule Bonn-Rhein-Sieg , 2018-Present
-* B.S. in Mechanical Engineering, GitHub University, 2011-2015
+* B.S. in Mechanical Engineering, The National Institute of Engineering, Mysore, 2011-2015
 
 Work experience
 ======
 
-* June 2019 - Present: Student Research Assistant
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2019 - Present: Fraunhofer FKIE, Wachtberg :Student Research Assistant
+  * Research ways to integrate Unity with ROS for robot visualization. (C# , python).
+  * Create pipeline to implement teleoperation of robot arm using Virtual Reality in Unity and ROS. (Unity, C++)
 
-* Feb 2016 - May 2018: Senior Software Engineer
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2016 - May 2018: Cognitive Machines :Senior Software Engineer
+  * Worked on Computer Vision based customer facing applications for both Desktop (Mac, Windows ,Linux) and Mobile applications (Basic experience in both Android, iOS). Have experience in all parts of the software development cycle, starting from requirement analysis, design and implementation.
+  * Offline Drone photography based vehicle counting system for parking lots using an SVM based object finder with over 90% accuracy. Special statistical and geometrical techniques used to find the vehicles at different orientations. (C++ , Qt , OpenCV , DLib)
+  * 3-Month Project on Augmented Reality application with custom algorithm based on Natural Feature Tracking for both Android and iOS. (Basic Java/NDK Android , Basic Swift for iOS , OpenCV).
+  * In-house image processing framework built on process block architecture. The framework was designed to be modular enough to be used with all the projects requiring Computer Vision. (C++ , OpenCV).
+  * Internal tools for image annotation and augmentation using Qt-Framework. (Qt , C++).
   
 Skills
 ======
@@ -32,7 +35,8 @@ Skills
   * C++
   * Python
   * Java/NDK Android (Basic Experience)
-* Computer Vision
+* Frameworks
+  * Qt 
   * OpenCV, DLib 
   * Tensorflow Object Detection Api
 * Software Development Skills
