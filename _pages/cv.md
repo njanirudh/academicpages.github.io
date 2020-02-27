@@ -18,11 +18,11 @@ Education
 Work experience
 ======
 
-* June 2019 - Present: Fraunhofer FKIE, Wachtberg :Student Research Assistant
+* June 2019 - Present: [Fraunhofer FKIE, Wachtberg](https://www.fkie.fraunhofer.de/en/departments/cms.html):Student Research Assistant
   * Research ways to integrate Unity with ROS for robot visualization. (C# , python).
   * Create pipeline to implement teleoperation of robot arm using Virtual Reality in Unity and ROS. (Unity, C++)
 
-* Feb 2016 - May 2018: Cognitive Machines :Senior Software Engineer
+* Feb 2016 - May 2018: [Cognitive Machines](https://www.cognitivemachines.in/) :Senior Software Engineer
   * Worked on Computer Vision based customer facing applications for both Desktop (Mac, Windows ,Linux) and Mobile applications (Basic experience in both Android, iOS). Have experience in all parts of the software development cycle, starting from requirement analysis, design and implementation.
   * Offline Drone photography based vehicle counting system for parking lots using an SVM based object finder with over 90% accuracy. Special statistical and geometrical techniques used to find the vehicles at different orientations. (C++ , Qt , OpenCV , DLib)
   * 3-Month Project on Augmented Reality application with custom algorithm based on Natural Feature Tracking for both Android and iOS. (Basic Java/NDK Android , Basic Swift for iOS , OpenCV).
