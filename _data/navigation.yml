@@ -1,10 +1,10 @@
 # main links links
 main:
     
-  - title: "Research"
+  - title: "Projects"
     url: /research/
         
-  - title: "Blog Posts"
+  - title: "Posts"
     url: /year-archive/
     
   - title: "Quotes"
