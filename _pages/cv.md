@@ -31,7 +31,7 @@ Work experience
   
 Projects
 ========
-*Look at Projects page*
+*Look at [Projects](https://njanirudh.github.io/research/) page*
 
 Skills
 ======
