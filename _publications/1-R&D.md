@@ -1,7 +1,7 @@
 ---
 title: "Manipulation of Handles in Domestic Environments"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/1-R&D
 excerpt: 'This report deals with teaching a robot to manipulate handles in domestic environments.'
 date: 2019-10-01
 venue: 'R&D Project'
