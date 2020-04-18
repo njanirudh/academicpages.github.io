@@ -4,8 +4,8 @@ main:
   - title: "Projects"
     url: /research/
         
-  - title: "Posts"
-    url: /year-archive/
+#   - title: "Posts"
+#     url: /year-archive/
     
   - title: "Quotes"
     url: /quotes/
@@ -13,5 +13,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#   - title: "Guide"
+#     url: /markdown/
