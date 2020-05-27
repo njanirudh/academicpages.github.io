@@ -3,5 +3,12 @@ When he states that something is impossible, he is very probably wrong.
 
 - Arthur C. Clarke
 
------------
+----
 
+The world is full of people who are correct one time in a row.
+
+----
+
+----
+
+----
