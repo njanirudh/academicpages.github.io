@@ -5,8 +5,8 @@ When he states that something is impossible, he is very probably wrong.
 
 ----
 
-The world is full of people who are correct one time in a row.
-
+"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats."
+Howard Aiken
 ----
 
 ----

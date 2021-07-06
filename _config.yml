@@ -86,14 +86,14 @@ author:
   location         : "Bonn, DE"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=1bAAc3AAAAAJ&hl=en#"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Anirudh-N-J"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           :  "https://www.flickr.com/photos/190002822@N04/"
   facebook         :
   foursquare       :
   github           : "njanirudh"
