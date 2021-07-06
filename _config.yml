@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "NJ Anirudh"
 title_separator          : "-"
 name                     : &name "NJ Anirudh"
-description              : &description "Robotics engineer"
+description              : &description "Computer Vision engineer"
 url                      : https://njanirudh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "njanirudh/njanirudh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "NJ ANIRUDH"
   avatar           : "profilpic.jpg"
-  bio              : "Robotics Engineer!"
+  bio              : "Computer Vision Engineer!"
   location         : "Bonn, DE"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             : "Anirudh_NarasimamurthyJayasimha"
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCOL8TmVduJxAqtQP3NP-SkQ"
   wikipedia        :
 
 
